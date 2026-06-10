@@ -109,6 +109,7 @@ You can support the developers of these projects financially:
 * [Ghostty Wrapper for Gnome](https://github.com/lucas-yotsui/Ghostty-Wrapper-for-Gnome)
 * [Ghostty-ls](https://github.com/MKindberg/ghostty-ls) - Language server for Ghostty config
 * [Ghostty-theme-sync.nvim](https://github.com/landerson02/ghostty-theme-sync.nvim) - Sync themes between Neovim and Ghostty
+* [ghostty-shader-picker](https://github.com/alexbathome/ghostty-shader-picker) - A simple TUI picker for Ghostty custom shaders.
 * [Ghostty.nvim](https://github.com/isak102/ghostty.nvim) - Validate Ghostty configuration on save
 * [Ghosttify](https://github.com/natibek/ghosttify) - Convert gnome-terminal shortcuts to Ghostty
 * [GhosttyExtensions.jl](https://github.com/piechologist/GhosttyExtensions.jl) - Julia package for advanced Ghostty features
