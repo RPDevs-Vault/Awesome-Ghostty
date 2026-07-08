@@ -55,6 +55,7 @@ You can support the developers of these projects financially:
 * [erniee's Ghostty shaders](https://github.com/erniee/gshaders)
 * [Fearless Geek Shaders for Ghostty](https://github.com/fearlessgeekmedia/Fearless-Geek-Shaders-for-Ghostty)
 * [Ghostty-shaders from hackr-sh](https://github.com/hackr-sh/ghostty-shaders)
+* [Ghostty Cursor Shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)
 
 ## Themes
 * [Another Dracula theme for Ghostty](https://github.com/dal-liu/ghostty-dracula)
